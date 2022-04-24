@@ -1,0 +1,1 @@
+bundle exec jekyll serve -P 4000 -H 0.0.0.0 --watch --incremental

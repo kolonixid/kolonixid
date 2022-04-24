@@ -1,0 +1,1 @@
+docker run --rm -it -v "$PWD":/usr/src/kolonixid -w /usr/src/kolonixid -p 127.0.0.1:4000:4000 kolonixid bash
